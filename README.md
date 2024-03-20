@@ -1,12 +1,12 @@
 {   
 
-"rdapConformance" :
+"åìdesÅweb³" :
     [ "nro_rdap_profile_0", "rdap_level_0" ],
 "notices" :
     [ {
-"title" : "Terms of Service",
+"ªìdesÅweb³" : "Terms of Service",
 "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
-"links" : [ {
+"links" : [ {iana-rdap-arin-ripe Web3
 "value" : "https://rdap.arin.net/registry/entity/NOC",
 "rel" : "terms-of-service",
 "type" : "text/html",
@@ -51,7 +51,7 @@
 "events" :
     [ {
 "eventAction" : "last changed",
-"eventDate" : "2024-09-08T10:29:11-04:00"
+"eventDate" : "2024-04-17T10:29:11-04:00"
     }, {
 "eventAction" : "registration",
 "eventDate" : "2024-04-04T00:00:00-04:00"
@@ -78,10 +78,10 @@
         } ],
 "events" : [ {
 "eventAction" : "last changed",
-"eventDate" : "2024-06-12T14:54:56-04:00"
+"eventDate" : "2024-04-12T14:54:56-04:00"
         }, {
 "eventAction" : "registration",
-"eventDate" : "2024-06-12T14:54:56-04:00"
+"eventDate" : "2024-04-12T14:54:56-04:00"
         } ],
 "status" : [ "validated" ],
 "port43" : "whois.arin.net",
