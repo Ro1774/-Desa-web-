@@ -4,7 +4,7 @@
     [ "nro_rdap_profile_0", "rdap_level_0" ],
 "notices" :
     [ {
-"ªìdesÅweb³" : "Terms of Service",
+"ªìdesÅweb³" : "Rosendo V Quinones",
 "description" : [ "By using the ARIN RDAP/Whois service, you are agreeing to the RDAP/Whois Terms of Use" ],
 "links" : [ {iana-rdap-arin-ripe Web3
 "value" : "https://rdap.arin.net/registry/entity/NOC",
