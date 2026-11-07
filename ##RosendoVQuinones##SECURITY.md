@@ -8,9 +8,9 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :##RosendoVQuinones##: |
-| 5.0.x   | :x:  ##RosendoVQuinones##              |
+| 5.0.x   | :  ##RosendoVQuinones##              |
 | 4.0.x   | :##RosendoVQuinones##: |
-| < 4.0   | :x:##RosendoVQuinones##                |
+| < 4.0   | :##RosendoVQuinones##                |
 
 ## Reporting a Vulnerability
 
